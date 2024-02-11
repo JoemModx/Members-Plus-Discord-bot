@@ -1,9 +1,9 @@
 
 {
-  "token": "Your Discord bot Token here", 
-  "EmbedFooter": "Any thing like the bot name and version",
-  "OwnerID": ["Here Your developer id"],
-  "prefix": "Any prefix here", 
+  "token": "", 
+  "EmbedFooter": "Lunar v1",
+  "OwnerID": ["1178074416983318702"],
+  "prefix": ".", 
    "supportServer" :"Your support server link here",
-  "logChannel": "YOUR LOG CHANNEL ID HERE"
+  "logChannel": ""
  }
